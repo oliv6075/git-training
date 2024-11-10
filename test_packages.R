@@ -1,2 +1,3 @@
-install.packages("ggplot2")
-library(bit) #lil wayne
+library(DBI)
+library(tidyverse) # often used in data-science
+library(RPostgres)
